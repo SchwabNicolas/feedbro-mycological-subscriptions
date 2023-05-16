@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Multidisciplinary" text="Multidisciplinary">
+      <outline text="European Journal of Taxonomy" title="European Journal of Taxonomy" type="rss" 
+            xmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://europeanjournaloftaxonomy.eu/index.php/ejt"/>
+      <outline text="Nordic Journal of Botany" title="Nordic Journal of Botany" type="rss" 
+            xmlUrl="https://onlinelibrary.wiley.com/action/showFeed?jc=17561051&amp;type=etoc&amp;feed=rss" htmlUrl="https://onlinelibrary.wiley.com/journal/17561051?af=R"/>
+      <outline text="Phytotaxa" title="Phytotaxa" type="rss" 
+            xmlUrl="https://www.mapress.com/pt/gateway/plugin/WebFeedGatewayPlugin/rss2" htmlUrl="https://www.mapress.com/pt"/>
+  </outline>
+  <outline title="Mycology" text="Mycology">
+      <outline text="Fungal Biology" title="Fungal Biology" type="rss" 
+            xmlUrl="https://rss.sciencedirect.com/publication/science/18786146" htmlUrl="https://www.sciencedirect.com/journal/fungal-biology"/>
+      <outline text="Fungal Systematics and Evolution" title="Fungal Systematics and Evolution" type="rss" 
+            xmlUrl="https://api.ingentaconnect.com/content/wfbi/fuse/latest?format=rss" htmlUrl="https://www.ingentaconnect.com/content/wfbi/fuse/latest"/>
+      <outline text="Journal of Fungi" title="Journal of Fungi" type="rss" 
+            xmlUrl="https://www.mdpi.com/rss/journal/jof" htmlUrl="https://www.mdpi.com/journal/jof"/>
+      <outline text="MycoKeys" title="Latest Articles from MycoKeys" type="rss" 
+            xmlUrl="https://mycokeys.pensoft.net/rss" htmlUrl="https://mycokeys.pensoft.net/"/>
+      <outline text="Mycologia" title="Mycologia" type="rss" 
+            xmlUrl="https://www.tandfonline.com/feed/rss/umyc20" htmlUrl="https://www.tandfonline.com/loi/umyc20?af=R"/>
+      <outline text="Mycoscience" title="Mycoscience" type="rss" 
+            xmlUrl="https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&amp;sryCd=mycosci&amp;rssLang=en"/>
+      <outline text="Mycotaxon" title="Mycotaxon" type="rss" 
+            xmlUrl="https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss" htmlUrl="https://www.ingentaconnect.com/content/mtax/mt/latest"/>
+      <outline text="Persoonia" title="Persoonia" type="rss" 
+            xmlUrl="https://api.ingentaconnect.com/content/nhn/pimj/latest?format=rss" htmlUrl="https://www.ingentaconnect.com/content/nhn/pimj/latest"/>
+  </outline>
+</body>
+</opml>
